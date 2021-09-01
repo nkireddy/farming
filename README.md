@@ -1,2 +1,0 @@
-# farming
-farming assiastant system
